@@ -2,17 +2,17 @@
 
 
 ## 1. Why use an identity.?
-![Pasted image 20260617173707](Images/Pasted%20image%2020260617173707.png)
+![1](Images/1.png)
 
 ---
 ## 2. Identity Provider (IDP)
-![Pasted image 20260617185418](Images/Pasted%20image%2020260617185418.png)
+![2](Images/2.png)
 
 ---
 ## 3. Entra ID
-![Pasted image 20260617192640](Images/Pasted%20image%2020260617192640.png)
+![3](Images/3.png)
 
-![Pasted image 20260618000057](Images/Pasted%20image%2020260618000057.png)
+![4](Images/4.png)
 
 ---
 ## 4. Managing groups in Entra ID
@@ -37,9 +37,9 @@
 #### -> Users can't be manually added in a dynamic group. 
 ---
 ## 5. Entra ID registered devices:
-![Screenshot 2026-06-18 014355](Images/Screenshot%202026-06-18%20014355.png)
+![5](Images/5.png)
 
-![Pasted image 20260618015830](Images/Pasted%20image%2020260618015830.png)
+![6](Images/6.png)
 
 ---
 ## 6. Entra roles
