@@ -1,3 +1,6 @@
+#### My personal study notes for the Microsoft SC-300: Microsoft Identity and Access Administrator certification. These notes cover key concepts, configurations, and practical insights related to Microsoft Entra ID, identity governance, authentication, authorization, and access management. Maintained as a structured reference for learning, revision, and exam preparation.
+
+
 ## 1. Why use an identity.?
 ![Pasted image 20260617173707](Images/Pasted%20image%2020260617173707.png)
 
